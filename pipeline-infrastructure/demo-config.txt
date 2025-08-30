@@ -1,1 +1,1 @@
-"stage3-secrets-manager" 
+-e "stage1-basic-ec2\napply" 
